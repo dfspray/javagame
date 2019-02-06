@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="4552be81-1e07-47af-b8de-4c39824b0265" name="dfspray">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
